@@ -1,0 +1,5 @@
+_Gall’s Law_ states that all complex systems that work evolved from simpler systems that worked. If you want to build a complex system that works, build a simpler system first, and then improve it over time.
+
+Complex systems designed from scratch will never work in the real world, since they haven’t been subject to environmental selection forces while being designed. Uncertainty ensures you will never be able to anticipate all of these interdependencies and variables in advance, so a complex system built from scratch will continually fail in all sorts of unexpected ways. If you want to build a system that works, the best approach is to build a simple system that meets the environment’s current selection tests first, then improve it over time.
+
+Gall’s Law is why Prototyping and Iteration work so well as a value-creation methodology. Instead of building a complex system from scratch, building a prototype is much easier—it’s the simplest possible creation that will help you verify that your system meets critical selection tests.
